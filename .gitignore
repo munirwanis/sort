@@ -6,6 +6,7 @@
 *.a
 *.so
 debug
+bubblesort
 
 # Folders
 _obj
